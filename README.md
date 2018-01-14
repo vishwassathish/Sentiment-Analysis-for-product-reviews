@@ -1,4 +1,4 @@
-# Sentiment-Analysis-for-product-review-using-LSTM-Networks
+# Sentiment-Analysis-for-product-review
 
 1) Loading the data <br/>
   Load the raw data into python lists  
